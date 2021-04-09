@@ -1,0 +1,217 @@
+*{
+
+  margin: 0px;
+  padding:0px;
+  box-sizing:border-box;
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
+ .img{
+   
+   margin-left: 100px;
+ }
+
+.content{
+  font-size: 16px;
+  color: black;
+}
+.bg-dark{
+  background: red;
+}
+
+
+.text{
+  font-size: 14px;
+  padding-left: 15px;
+}
+ .myTopnav a{
+   padding-right: 10px;
+ }
+.image{
+   /* max-height: 100% !important; */
+  width:420px;
+  
+   float: right;
+   padding-top: 120px;
+   
+}
+.header a{
+  text-align: center;
+}
+.grow{
+   padding-top: 105px;
+}
+.grow h1{
+   color: white;
+   
+}
+.built{
+   font-size: 22px;
+   color: white;
+}
+ p{
+  color: white;
+}
+.school{
+  background-image: url(https://res.cloudinary.com/dtgqcxhls/image/upload/w_600,c_scale,q_auto:low/forvets-hero-banner.jpg);
+   width: 100%;
+   height:120%;
+   margin: 20px;
+   background-size: cover;
+    background-position: center; 
+    padding-top:7px;
+    margin: 0px;
+}
+.topnav .icon {
+ display: none;
+}
+.btn.btn{
+  background: #fff;
+ margin-bottom: 35px;
+ border: 1px solid #dcdfe6;
+ font-family: "TTCommons-DemiBold", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-weight: bold !important;
+    color: #4F6468;
+    border: 1px solid #dcdfe6;
+   font-size: 15px;
+    margin-top:7px;
+}
+.footer{
+  margin-left: 141px;
+  font-size: 15px;
+  color: green;
+  padding-top: 15px;
+}
+
+.demo {
+  color: #1da978 !important;
+}
+.contact a{
+  
+  
+  text-decoration: none;
+    border-bottom: none;
+    padding: 10px 14px;
+    color: black;
+    font-size: 14px;
+}
+.contact{
+  justify-content: flex-end;
+    margin-right: 130px;
+    display: block;
+}
+.votes{
+  text-align: center;
+  padding-top: 50px;
+}
+.greate {
+  text-align: center;
+  padding-top: 40px;
+  font-size: 15px;
+  
+  color: currentColor;
+  line-height: 24px;
+}
+.greate p{
+  line-height: 24px;
+}
+.makes{
+  color:black;
+  text-align: center;
+  font-family: "TTCommons-Regular", "Segoe UI", sans-serif;
+  padding-top: 8px;
+  font-size: 15px;
+    margin-right: 37px;
+    color:#4F6468;
+  
+}
+.promote{
+  padding-top: 13px;
+  color: #4F6468;
+}
+.badget1{
+  color:black;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 15px;
+  color:#4F6468;
+}
+.badget{
+  padding-top: 13px;
+  text-align: center;
+  color:#4F6468;
+}
+.patient{
+  padding-top: 15px;
+  padding-left:22px;
+  color:#4F6468;
+}
+.badget2{
+  color:black;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 15px;
+  margin-right: 26px;
+  color:#4F6468;
+}
+.trend{
+  padding-top: 20px;
+}
+.trend1{
+  padding-top: 20px;
+}
+.trend2{
+  padding-top: 20px;
+}
+.honest{
+  color:black;
+  text-align:  center;
+  font-size: 21px; 
+  padding-top: 20px;
+  color: white;
+}
+.difference{
+  text-align:  center; 
+  padding-top: 110px;
+  color: white;
+  
+}
+.vet{
+  background-image: url(https://res.cloudinary.com/dtgqcxhls/image/upload/w_600,c_scale,q_auto:low/forvets-hero-banner.jpg);
+  height:340px;
+  margin-top:25px
+}
+.vote{
+  text-align: center;
+  padding-top: 50px;
+}
+.greates {
+  text-align: center;
+  padding-top: 40px;
+  font-size: 15px;
+  
+  color: currentColor;
+  line-height: 24px;
+}
+.third{
+  color: black;
+  font-size: 16px;
+  padding-left: 10px;
+  color:#4F6468;
+  
+}
+.manage{
+  color:#4F6468;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+.sets{
+  color:#4F6468;
+  font-size: 16px;
+}
+.portal{
+  color:#4F6468;
+  padding-top: 20px;
+}
